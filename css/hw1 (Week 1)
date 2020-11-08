@@ -1,0 +1,33 @@
+header {
+  background-color: #ffe6c4;
+}
+
+h1 {
+  font-size: 32px;
+  color: #8c2017;
+  font-family: Arial, Helvetica, "Times New Roman";
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+	font-size: 25px;
+	color: #1e2671;
+	font-family: "Comic Sans MS", Georgia;
+	text-transform: uppercase;
+}
+
+section {
+	background-color: #cdf5eb;
+}
+
+a {
+	font-size: 17px;
+	color: #5b236f;
+	font-family: Times, Palatino;
+  background-color: #ced0c257;
+}
+
+img {
+	display: none;
+}
