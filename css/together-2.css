@@ -1,0 +1,59 @@
+header {
+    background: #666666;
+    font-size: 150%;
+    text-align: center;
+    padding: 15 px;
+}
+
+nav {
+    background: #B3B3B3;
+    text-align: center;
+}
+
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+body {
+    background: #f0ade294;
+    font-size: 105%;
+    margin: 8%;
+}
+
+section {
+  display: inline-block;
+  width: 30%;
+  float: left;
+  margin-right: 3%;
+  background: #B3B3B3;
+}
+
+nav {
+    font-variant: small-caps;
+    font-size: 150%;
+    font-family: Arial, "Times New Roman", serif;
+}
+
+h2 {
+    color: #666666;
+    background: #00B7ea;
+}
+
+details {
+    font-style: italic;
+}
+
+summary {
+    font-style: normal;
+}
+
+footer {
+    background: #B3B3B3;
+  clear: both;
+}
+
+img {
+  width: 130px;
+}
+
